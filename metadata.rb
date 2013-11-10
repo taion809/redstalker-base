@@ -4,7 +4,7 @@ maintainer_email 'nicholas.a.johns5@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures redstalker-base'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.1.9'
+version          '0.1.10'
 
 depends          'openssh'
 depends          'fail2ban'
