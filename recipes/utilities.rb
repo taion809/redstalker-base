@@ -13,5 +13,4 @@
     end
 end
 
-include_recipe "openssh"
 include_recipe "fail2ban"
