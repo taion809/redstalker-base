@@ -8,4 +8,3 @@ version          '0.1.11'
 
 depends          'openssh'
 depends          'fail2ban'
-depends          'datadog'
